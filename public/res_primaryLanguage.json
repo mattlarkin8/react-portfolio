@@ -21,16 +21,16 @@
         "url": "https://github.com/flash-flip/flash-flip",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "HTML"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "CSS"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
@@ -73,37 +73,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-Stack Developer | Coding Student",
+        "years": "5.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 6/13/22"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML 5",
+          "CSS 3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Motorola Solutions Inc.",
+        "title": "System Manager",
+        "years": "12.2019 - 04.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Virtual Server Administration"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "RHEL",
+          "Windows Server",
+          "VMware",
+          "Active Directory"
         ]
       }
     ]
